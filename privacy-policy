@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy — Dream Journal</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            background: #0A0A1A;
+            color: #B4B4D0;
+            line-height: 1.7;
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+        }
+        h1 {
+            color: #FFFFFF;
+            font-size: 28px;
+            margin-bottom: 8px;
+        }
+        .last-updated {
+            color: #6B6B8D;
+            font-size: 14px;
+            margin-bottom: 32px;
+        }
+        h2 {
+            color: #FFFFFF;
+            font-size: 20px;
+            margin-top: 32px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-bottom: 16px;
+        }
+        a {
+            color: #7C5CFC;
+        }
+        ul {
+            margin-bottom: 16px;
+            padding-left: 24px;
+        }
+        li {
+            margin-bottom: 8px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Privacy Policy</h1>
+        <p class="last-updated">Last updated: March 5, 2026</p>
+
+        <p>Ilyas Baiduanov ("we," "our," or "us") operates the Dream Journal — AI Interpreter mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.</p>
+
+        <h2>1. Information We Collect</h2>
+
+        <p><strong>Dream Content:</strong> The text of your dreams that you enter into the App is stored locally on your device. When you request an AI interpretation, your dream text is sent to our secure server for processing and is not stored on our servers after the interpretation is generated.</p>
+
+        <p><strong>Usage Data:</strong> We may collect anonymous usage data such as app crashes, performance metrics, and general usage patterns to improve the App. This data does not identify you personally.</p>
+
+        <p><strong>Purchase Information:</strong> If you subscribe to our premium service, payment processing is handled entirely by Apple through the App Store. We do not collect, store, or have access to your payment information (such as credit card numbers). We receive only a confirmation of your subscription status through RevenueCat, our subscription management service.</p>
+
+        <p><strong>Push Notification Token:</strong> If you enable push notifications, we store a device token to send you reminders. This token does not identify you personally.</p>
+
+        <h2>2. Information We Do Not Collect</h2>
+        <ul>
+            <li>We do not require you to create an account or provide personal information such as your name, email address, or phone number.</li>
+            <li>We do not collect location data.</li>
+            <li>We do not use advertising trackers or analytics SDKs that track you across apps.</li>
+            <li>We do not sell, rent, or share your personal data with third parties for marketing purposes.</li>
+        </ul>
+
+        <h2>3. How We Use Your Information</h2>
+        <ul>
+            <li>To provide AI-powered dream interpretation when you request it.</li>
+            <li>To manage your subscription status.</li>
+            <li>To send you reminders if you have enabled push notifications.</li>
+            <li>To improve the App's performance and fix bugs.</li>
+        </ul>
+
+        <h2>4. Data Storage and Security</h2>
+        <p>Your dream journal entries are stored locally on your device using encrypted device storage. Dream text sent for AI interpretation is transmitted over HTTPS (encrypted in transit) and is processed in real-time without being stored on our servers.</p>
+        <p>We use industry-standard security measures to protect the data transmitted to and from our servers. However, no method of electronic transmission or storage is 100% secure.</p>
+
+        <h2>5. Third-Party Services</h2>
+        <p>The App uses the following third-party services:</p>
+        <ul>
+            <li><strong>Supabase:</strong> For processing AI dream interpretations via secure Edge Functions. <a href="https://supabase.com/privacy">Supabase Privacy Policy</a></li>
+            <li><strong>OpenAI:</strong> For generating dream interpretations. Dream text is sent to OpenAI's API for processing. <a href="https://openai.com/privacy">OpenAI Privacy Policy</a></li>
+            <li><strong>RevenueCat:</strong> For managing subscriptions. <a href="https://www.revenuecat.com/privacy">RevenueCat Privacy Policy</a></li>
+            <li><strong>Apple App Store:</strong> For processing payments. <a href="https://www.apple.com/legal/privacy/">Apple Privacy Policy</a></li>
+        </ul>
+
+        <h2>6. Data Retention</h2>
+        <p>Dream entries are stored on your device for as long as you keep them. You can delete individual dreams or all data at any time through the App's Settings. Uninstalling the App will permanently delete all locally stored data.</p>
+        <p>We do not retain dream text on our servers after processing the AI interpretation.</p>
+
+        <h2>7. Children's Privacy</h2>
+        <p>The App is not intended for children under the age of 13. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us at the email address below.</p>
+
+        <h2>8. Your Rights</h2>
+        <ul>
+            <li><strong>Access and Deletion:</strong> All your data is stored locally on your device. You have full control over your data and can delete it at any time through the App's Settings.</li>
+            <li><strong>Opt-out of Notifications:</strong> You can disable push notifications at any time through your device's Settings.</li>
+            <li><strong>Cancel Subscription:</strong> You can cancel your subscription at any time through the App Store.</li>
+        </ul>
+
+        <h2>9. Changes to This Privacy Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of any changes by updating the "Last updated" date at the top of this page. Your continued use of the App after any changes constitutes your acceptance of the updated Privacy Policy.</p>
+
+        <h2>10. Contact Us</h2>
+        <p>If you have any questions or concerns about this Privacy Policy, please contact us at:</p>
+        <p><a href="mailto:ilyas@baiduanov.kz">ilyas@baiduanov.kz</a></p>
+    </div>
+</body>
+</html>
